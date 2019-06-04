@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "tinyfuel",
+  "version": "${version}",
+
+  "name": "Tiny Fuel",
+  "description": "",
+  "authors": [
+    "MarioAndWeegee3"
+  ],
+  "contact": {
+    "homepage": "https://minecraft.curseforge.com/members/MarioAndWeegee3",
+    "sources": ""
+  },
+
+  "license": "Unlicense",
+  "icon": "assets/tinyfuel/textures/tiny_fuel.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "marioandweegee3.tinyfuel.TinyFuel"
+    ]
+  },
+
+  "requires": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

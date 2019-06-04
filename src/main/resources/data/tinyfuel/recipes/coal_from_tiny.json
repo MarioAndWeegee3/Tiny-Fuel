@@ -1,0 +1,14 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {"item":"tinyfuel:tiny_coal"},
+        {"item":"tinyfuel:tiny_coal"},
+        {"item":"tinyfuel:tiny_coal"},
+        {"item":"tinyfuel:tiny_coal"},
+        {"item":"tinyfuel:tiny_coal"},
+        {"item":"tinyfuel:tiny_coal"},
+        {"item":"tinyfuel:tiny_coal"},
+        {"item":"tinyfuel:tiny_coal"}
+    ],
+    "result":{"item":"minecraft:coal"}
+}
