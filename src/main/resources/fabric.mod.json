@@ -13,7 +13,7 @@
     "sources": ""
   },
 
-  "license": "Unlicense",
+  "license": "MIT",
   "icon": "assets/tinyfuel/textures/tiny_fuel.png",
 
   "environment": "*",
